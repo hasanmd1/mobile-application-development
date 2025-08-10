@@ -1,4 +1,4 @@
-# 🚀 React Native & Mobile App Portfolio
+# 🚀 React Native, Expo, Flutter & Mobile App Portfolio
 
 Welcome to my mobile and frontend projects portfolio! This repository showcases **6 deployed apps** (3 Expo React Native, 3 Flutter) plus web frontend work — demonstrating cross-platform mobile development, clean UX, and production-ready releases. I will not open the code as they are deployed and used as business uses.
 
