@@ -8,57 +8,6 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
 
 ## 📱 Mobile Apps (React Native & Flutter)
 
-### Expo — React Native Apps
-
-> Built with **Expo (React Native)** for fast iteration and smooth cross-platform UX.
-
----
-
-#### **JobSeek**
-
-* **Short description:** A lightweight job-search app that helps users discover, filter, and apply to local and remote job listings quickly.
-* **Key features:**
-
-  * Advanced search & filters (location, job type, salary)
-  * Save jobs, apply from the app, and track application status
-  * User profile with resume upload
-  * Push notifications for saved-search alerts
-* **Platforms:** iOS & Android
-* **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![JobSeek Screenshot](image/app-1.jpeg)
-
----
-
-#### **ReadFlow**
-
-* **Short description:** A clean, distraction-free reading app for articles and long-form content with offline reading and personalised reading lists.
-* **Key features:**
-
-  * Save, organize, and tag articles
-  * Read-later / offline mode with text resizing
-  * Dark mode and adjustable line spacing for accessibility
-  * Built-in text-to-speech for hands-free listening
-* **Platforms:** iOS & Android
-* **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![ReadFlow Screenshot](image/app-2.jpeg)
-
----
-
-#### **E-Learning Application**
-
-* **Short description:** A student-focused e-learning app that delivers bite-sized lessons, quizzes, and progress tracking for effective self-study.
-* **Key features:**
-
-  * Topic-based lesson modules and interactive quizzes
-  * Bookmark lessons and track learning progress
-  * Download lessons for offline access
-  * Simple analytics to review strengths and weak areas
-* **Platforms:** iOS & Android
-* **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![E-learning Screenshot](image/app-3.jpeg)
-
----
-
 ### Flutter Apps
 
 > Built with **Flutter** for expressive UI and high-performance native experience.
@@ -107,6 +56,57 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](https://play.google.com/store/apps/details?id=com.hasanmd1.formulaxpert)
 * ![Formula Expert Screenshot](image/app-6.jpeg)
+
+---
+
+### Expo — React Native Apps
+
+> Built with **Expo (React Native)** for fast iteration and smooth cross-platform UX.
+
+---
+
+#### **JobSeek**
+
+* **Short description:** A lightweight job-search app that helps users discover, filter, and apply to local and remote job listings quickly.
+* **Key features:**
+
+  * Advanced search & filters (location, job type, salary)
+  * Save jobs, apply from the app, and track application status
+  * User profile with resume upload
+  * Push notifications for saved-search alerts
+* **Platforms:** iOS & Android
+* **Store:** [App Store Link](#) | [Play Store Link](#)
+* ![JobSeek Screenshot](image/app-1.jpeg)
+
+---
+
+#### **ReadFlow**
+
+* **Short description:** A clean, distraction-free reading app for articles and long-form content with offline reading and personalised reading lists.
+* **Key features:**
+
+  * Save, organize, and tag articles
+  * Read-later / offline mode with text resizing
+  * Dark mode and adjustable line spacing for accessibility
+  * Built-in text-to-speech for hands-free listening
+* **Platforms:** iOS & Android
+* **Store:** [App Store Link](#) | [Play Store Link](#)
+* ![ReadFlow Screenshot](image/app-2.jpeg)
+
+---
+
+#### **E-Learning Application**
+
+* **Short description:** A student-focused e-learning app that delivers bite-sized lessons, quizzes, and progress tracking for effective self-study.
+* **Key features:**
+
+  * Topic-based lesson modules and interactive quizzes
+  * Bookmark lessons and track learning progress
+  * Download lessons for offline access
+  * Simple analytics to review strengths and weak areas
+* **Platforms:** iOS & Android
+* **Store:** [App Store Link](#) | [Play Store Link](#)
+* ![E-learning Screenshot](image/app-3.jpeg)
 
 ---
 
