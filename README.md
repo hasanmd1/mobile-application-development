@@ -25,7 +25,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Push notifications for saved-search alerts
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![JobSeek Screenshot](app-1.jpeg)
+* ![JobSeek Screenshot](image/app-1.jpeg)
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Built-in text-to-speech for hands-free listening
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![ReadFlow Screenshot](app-2.jpeg)
+* ![ReadFlow Screenshot](image/app-2.jpeg)
 
 ---
 
@@ -55,7 +55,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Simple analytics to review strengths and weak areas
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![E-learning Screenshot](app-3.jpeg)
+* ![E-learning Screenshot](image/app-3.jpeg)
 
 ---
 
@@ -75,8 +75,8 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Save tasting notes and favorite recipes
   * Share recipes with community links
 * **Platforms:** iOS & Android
-* **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![Coffee Brew Master Screenshot](app-4.jpeg)
+* **Store:** [App Store Link](#) | [Play Store Link](https://play.google.com/store/apps/details?id=com.hasanmd1.coffee_brew_master)
+* ![Coffee Brew Master Screenshot](image/app-4.jpeg)
 
 ---
 
@@ -90,8 +90,8 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Personal notes and rating system
   * Offline access to saved guides
 * **Platforms:** iOS & Android
-* **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![Tea Brew Master Screenshot](app-5.jpeg)
+* **Store:** [App Store Link](#) | [Play Store Link](https://play.google.com/store/apps/details?id=com.hasanmd1.tea_brew_master)
+* ![Tea Brew Master Screenshot](image/app-5.jpeg)
 
 ---
 
@@ -105,8 +105,8 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Save frequently used formulas and create custom entries
   * Clean, searchable UI with dark mode
 * **Platforms:** iOS & Android
-* **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![Formula Expert Screenshot](app-6.jpeg)
+* **Store:** [App Store Link](#) | [Play Store Link](https://play.google.com/store/apps/details?id=com.hasanmd1.formulaxpert)
+* ![Formula Expert Screenshot](image/app-6.jpeg)
 
 ---
 
