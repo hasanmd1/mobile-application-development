@@ -25,7 +25,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Push notifications for saved-search alerts
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![JobSeek Screenshot](image/app-1.png)
+* ![JobSeek Screenshot](app-1.png)
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Built-in text-to-speech for hands-free listening
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![ReadFlow Screenshot](image/app-2.png)
+* ![ReadFlow Screenshot](app-2.png)
 
 ---
 
@@ -55,7 +55,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Simple analytics to review strengths and weak areas
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![E-learning Screenshot](image/app-3.png)
+* ![E-learning Screenshot](app-3.png)
 
 ---
 
@@ -76,7 +76,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Share recipes with community links
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![Coffee Brew Master Screenshot](image/app-4.png)
+* ![Coffee Brew Master Screenshot](app-4.png)
 
 ---
 
@@ -91,7 +91,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Offline access to saved guides
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![Tea Brew Master Screenshot](image/app-5.png)
+* ![Tea Brew Master Screenshot](app-5.png)
 
 ---
 
@@ -106,7 +106,7 @@ Welcome to my mobile and frontend projects portfolio! This repository showcases 
   * Clean, searchable UI with dark mode
 * **Platforms:** iOS & Android
 * **Store:** [App Store Link](#) | [Play Store Link](#)
-* ![Formula Expert Screenshot](image/app-6.png)
+* ![Formula Expert Screenshot](app-6.png)
 
 ---
 
